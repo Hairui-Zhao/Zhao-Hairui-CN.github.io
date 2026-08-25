@@ -82,6 +82,18 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
   <li>🎉 <b>Nov 2024</b>: Our paper "Visage: Visual-Aware Generation of Adversarial Examples in Black-Box for Text Classification" won the <b>Best Paper Award (1/160)</b> at <b>NLPCC 2024</b> (<b>CCF-C</b>).</li>
 </ul>
 </details>
+
+## Professional Services
+
+### Program Committee (PC) / Technical Program Committee (TPC) Member
+- **NPC**: IFIP International Conference on Network and Parallel Computing
+- **CCF HPC China**: National Annual Conference on High Performance Computing
+- **IJCNN**: International Joint Conference on Neural Networks
+
+### Journal Reviewer
+- **IEEE TPDS**: IEEE Transactions on Parallel and Distributed Systems
+- **PARCO**: Parallel Computing (Elsevier)
+- **THPC**: Transactions on High Performance Computing
  
 <span class='anchor' id='-lwzl'></span>
 
@@ -169,6 +181,7 @@ Jinwu Yang, Jiaan Wu, Zedong Liu, Xinyang Ma, **<u>Hairui Zhao</u>**, Yida Gu, Y
 # 🏅 Honors and Awards
 
 🏆 **Featured Award**
+- **Best Paper Nominee**, (**PPoPP 2026**)
 - **Best Paper Award (1/160)**, (**NLPCC 2024**)
 
 🏆 **National & International**
