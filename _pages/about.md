@@ -83,17 +83,6 @@ My research interests include: **Distributed Systems, Fault-Tolerant, High-Perfo
 </ul>
 </details>
 
-# 📝 Professional Services
-
-**Program Committee (PC) / Technical Program Committee (TPC) Member**
-- **NPC**: IFIP International Conference on Network and Parallel Computing
-- **CCF HPC China**: National Annual Conference on High Performance Computing
-- **IJCNN**: International Joint Conference on Neural Networks
-
-**Journal Reviewer**
-- **IEEE TPDS**: IEEE Transactions on Parallel and Distributed Systems
-- **PARCO**: Parallel Computing (Elsevier)
-- **THPC**: Transactions on High Performance Computing
  
 <span class='anchor' id='-lwzl'></span>
 
